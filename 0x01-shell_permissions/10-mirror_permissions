@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --scripting_for_olleh hello
+chmod --reference_olleh hello
