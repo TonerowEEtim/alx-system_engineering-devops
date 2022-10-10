@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta
+7. It is a good file that cuts iron without making a noise
