@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# looping best school 10 times using while
+mylist=$(ls)
+
+for i in $mylist; do
+  echo "$i" | cut -d '-' -f2
+done
